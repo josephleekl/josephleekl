@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Performance software tech lead at [Xanadu](https://github.com/XanaduAI). Making [PennyLane](https://github.com/PennyLaneAI) go zoom on big computers. ⚛️🖥️🚀
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephleekl&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephleekl&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephleekl&theme=github_dark)
